@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Morse Code Decoder</b></h3>
+  <h3><b>Quiz Game</b></h3>
 
 </div>
 
@@ -32,18 +32,18 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Code Decoder <a name="about-project"></a>
+# 📖 Quiz Game <a name="about-project"></a>
 
-**Morse code decoder** is an app that takes a string of morse code sequences and converts them to word characters that form words and eventually make messages from complete sentences.
+**Quiz Game** is an interactive app built with python, that prompts different general question to user on the terminal, if the user gives the correct answer the app computes the score and at the end it gives a total score in percentage
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Server</summary>
+  <summary>Python</summary>
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://www.python.org/">Python</a></li>
   </ul>
 </details>
 
@@ -51,7 +51,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Morse Code Message Converter**
+- **Python conditional statements**
+- **Python data type conversion**
+- **Python arithmetic calculations**
+- **General Question and Answer**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,13 +70,13 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps. 
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
+
 In order to run this project you need:
 
-- Install ruby using [link](https://www.ruby-lang.org/en/documentation/installation/#apt)
-
+- Install python using [link](https://www.python.org/downloads/)
 
 ### Setup
 
@@ -82,8 +85,9 @@ Clone this repository to your desired folder:
 ```sh
   mkdir folder_name
   cd folder_name
-  git clone git@github.com:microvese-projects/morse_code.git
+  git clone git@github.com:tsheporamantso/Quiz_Game.git
 ```
+
 -
 
 ### Install
@@ -93,15 +97,18 @@ Install this project with:
 ```sh
   bundle install
 ```
+
 -
 
 ### Usage
 
 To run the project, execute the following command:
 run the result on the terminal through:
+
 ```sh
-  ruby main.rb
+  python3 quiz_game.py
 ```
+
 -
 
 ### Run tests
@@ -110,7 +117,7 @@ No tests available.
 
 ### Deployment
 
-Not deployed 
+Not deployed
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -124,12 +131,6 @@ Not deployed
 - Twitter: [@ramgt001](https://twitter.com/ramgt001)
 - LinkedIn: [Tshepo Gladwin Ramantso](https://www.linkedin.com/in/tshepo-ramantso-b6a35433/)
 
-👤 **Benson Njuguna Kamau**
-
-- GitHub: [@bennyjoez](https://github.com/bennyjoez)
-- Twitter: [@bennyjoezz](https://twitter.com/bennyjoezz)
-- LinkedIn: [Benson Njuguna Kamau](https://www.linkedin.com/in/bennyjoez/)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
@@ -137,6 +138,7 @@ Not deployed
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Webpage**
+- [ ] **Add more questions**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,7 +148,7 @@ Not deployed
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/microvese-projects/morse_code.git/issues).
+Feel free to check the [issues page](https://github.com/tsheporamantso/Quiz_Game/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,7 +156,7 @@ Feel free to check the [issues page](https://github.com/microvese-projects/morse
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give a star on [github](https://github.com/microvese-projects/morse_code.git) & follow us on [twitter](https://twitter.com/bennyjoezz) and also connect on [Linkedin](https://www.linkedin.com/in/bennyjoez/).
+If you like this project please give a star on [github](https://github.com/tsheporamantso/Quiz_Game) & follow us on [twitter](https://twitter.com/bennyjoezz) and also connect on [Linkedin](https://www.linkedin.com/in/bennyjoez/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,11 +166,7 @@ If you like this project please give a star on [github](https://github.com/micro
 
 I would like to thank:
 
-- [ ] **Microverse and all the staff**
-- [ ] **Microverse Communinity**
-- [ ] **Thanks to my coding Partners**
-- [ ] **Thanks to my Morning-Session-Group and Standup-Team Partners and**
-- [ ] **Thanks to Code Reviewers**
+- [ ] **Learn Linux TV (Youtube Channel)**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
