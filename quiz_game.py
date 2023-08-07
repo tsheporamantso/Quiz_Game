@@ -61,7 +61,7 @@ else:
     print('You such a star')
     score = score + 1
 
-print("That concludes our game and your total score is " + str(score) + ' out of 5')
+print("That concludes our game and your got " + str(score) + ' questions correct!')
 
 if score < 2:
     print('Low score, please try again')
